@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zerenenes18&label=Profile%20views&color=0e75b6&style=flat" alt="zerenenes18" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zerenenes18" alt="fatih-sglm" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zerenenes18" alt="zerenenes18" /></a> </p>
 
 
 - 🔭 I’m currently working on **E- Commerce Microservice Project**
@@ -59,13 +59,13 @@
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatih-sglm&show_icons=true&locale=en&layout=compact" alt="fatih-sglm" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zerenenes18&show_icons=true&locale=en&layout=compact" alt="zerenenes18" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatih-sglm&show_icons=true&locale=en" alt="fatih-sglm" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zerenenes18&show_icons=true&locale=en" alt="zerenenes18" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatih-sglm&" alt="fatih-sglm" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zerenenes18&" alt="zerenenes18" /></p>
 
 <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Fatih-Sglm&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=zerenenes18&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
