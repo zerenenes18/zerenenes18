@@ -1,28 +1,31 @@
 <h1 align="center">Hi 👋, I'm Enes Zeren</h1>
 <h3 align="center">I called myself a Backend Developer but as hobies I'm trying to learn another languages or technologies. I'm mostly using C# in for my personal projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zerenenes18&label=Profile%20views&color=0e75b6&style=flat" alt="zerenenes18" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zerenenes18" alt="zerenenes18" /></a> </p>
 
 
 - 🔭 I’m currently working on **E- Commerce Microservice Project**
 
-- 🌱 I’m currently learning **.Net Core, RabbitMq , Docker, Azure , Kubernets,**
+- 🌱 I’m currently learning **.Net Core, RabbitMq , Docker, Azure,**
 
 - 🤝 I’m looking for help with **.Net Core**
 
 - 💬 Ask me about **.Net Core , C#**
 
-- 📫 How to reach me **fatih.sglmm@gmail.com**
+- 📫 How to reach me **zerenenes18@gmail.com**
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zerenenes18&label=Profile%20views&color=0e75b6&style=flat" alt="zerenenes18" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
-<a href="https://linkedin.com/in/fatihsglm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatihsglm" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18657302/fatih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18657302/fatih" height="30" width="40" /></a>
-<a href="https://instagram.com/fatih.sglmm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fatih.sglmm" height="30" width="40" /></a>
-<a href="https://medium.com/@fatih.sglmm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fatih.sglmm" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/enes-zeren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zerenenes" height="30" width="40" /></a>
+<a href="mailto:zerenenes18@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail"/></a>
+  
+<a href="https://instagram.com/z.enes01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fatih.sglmm" height="30" width="40" /></a>
+ 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
  
