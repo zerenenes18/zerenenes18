@@ -59,12 +59,3 @@
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zerenenes18&show_icons=true&locale=en&layout=compact" alt="zerenenes18" /></p>
 
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zerenenes18&show_icons=true&locale=en" alt="zerenenes18" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zerenenes18&" alt="zerenenes18" /></p>
-
-<br/>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=zerenenes18&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
