@@ -2,7 +2,6 @@
 <h3 align="center">I called myself a Backend Developer but as hobies I'm trying to learn another languages or technologies. I'm mostly using C# in for my personal projects.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zerenenes18" alt="zerenenes18" /></a> </p>
 
 
 - 🔭 I’m currently working on **E- Commerce Microservice Project**
