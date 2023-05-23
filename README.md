@@ -61,7 +61,6 @@
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zerenenes18&show_icons=true&locale=en&layout=compact" alt="zerenenes18" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zerenenes18&show_icons=true&locale=en" alt="zerenenes18" /></p>
 
