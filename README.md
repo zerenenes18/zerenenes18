@@ -57,5 +57,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zerenenes18&show_icons=true&locale=en&layout=compact" alt="zerenenes18" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zerenenes18&label=Profile%20views&color=0e75b6&style=flat" alt="zerenenes18" /> </p>
 
 
