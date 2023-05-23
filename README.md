@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enes Zeren</h1>
 <h3 align="center">I called myself a Backend Developer but as hobies I'm trying to learn another languages or technologies. I'm mostly using C# in for my personal projects.</h3>
-
-
-
+<div></div>
 
 - 🔭 I’m currently working on **E- Commerce Microservice Project**
 
@@ -15,7 +13,6 @@
 - 📫 How to reach me **zerenenes18@gmail.com**
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zerenenes18&label=Profile%20views&color=0e75b6&style=flat" alt="zerenenes18" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
