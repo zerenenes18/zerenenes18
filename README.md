@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **E- Commerce Microservice Project**
 
-- 🌱 I’m currently learning **.Net Core, RabbitMq , Docker, Azure,**
+- 🌱 I’m currently learning **.Net Core, RabbitMQ , Docker, Azure,**
 
 - 🤝 I’m looking for help with **.Net Core**
 
