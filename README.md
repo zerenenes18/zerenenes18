@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enes Zeren</h1>
-<h3 align="center">I called myself a Backend Developer but as hobies I'm trying to learn another languages or technologies. I'm mostly using C# in for my personal projects.Good Luck :D.</h3>
+<h3 align="center">I called myself a Backend Developer but as hobies I'm trying to learn another languages or technologies. I'm mostly using C# in for my personal projects.</h3>
 <div><br><br></div>
 
 - 🔭 I’m currently working on **E- Commerce Microservice Project**
